@@ -1,4 +1,4 @@
-package com.lacapitale.cgen.jwt.model;
+package com.example.jwt.model;
 
 import java.io.Serializable;
 public class JwtRequest implements Serializable {

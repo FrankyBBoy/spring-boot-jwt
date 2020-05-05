@@ -1,4 +1,4 @@
-package com.lacapitale.cgen.jwt.config;
+package com.example.jwt.config;
 
 import java.io.IOException;
 import java.io.Serializable;

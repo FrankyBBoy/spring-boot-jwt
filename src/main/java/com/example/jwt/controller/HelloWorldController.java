@@ -1,4 +1,4 @@
-package com.lacapitale.cgen.jwt.controller;
+package com.example.jwt.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

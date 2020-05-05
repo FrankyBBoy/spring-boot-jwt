@@ -1,4 +1,4 @@
-package com.lacapitale.cgen.jwt;
+package com.example.jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,9 +1,9 @@
-package com.lacapitale.cgen.jwt.controller;
+package com.example.jwt.controller;
 
-import com.lacapitale.cgen.jwt.config.JwtTokenUtil;
-import com.lacapitale.cgen.jwt.model.JwtRequest;
-import com.lacapitale.cgen.jwt.model.JwtResponse;
-import com.lacapitale.cgen.jwt.service.JwtUserDetailsService;
+import com.example.jwt.config.JwtTokenUtil;
+import com.example.jwt.model.JwtRequest;
+import com.example.jwt.model.JwtResponse;
+import com.example.jwt.service.JwtUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

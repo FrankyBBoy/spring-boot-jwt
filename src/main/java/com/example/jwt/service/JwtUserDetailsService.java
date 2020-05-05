@@ -1,4 +1,4 @@
-package com.lacapitale.cgen.jwt.service;
+package com.example.jwt.service;
 
 import java.util.ArrayList;
 import org.springframework.security.core.userdetails.User;
